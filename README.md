@@ -1,9 +1,10 @@
 <div align="center">
 
 
-  <!-- Animated Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1DB954,100:191414&height=250&section=header&text=AI%20Resume%20Analyser%20&fontSize=38&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Get%20Hired%20%7C%20Much%20%7C%20Faster&descAlignY=58&descSize=16"/>
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,20:fde047,40:f97316,65:0ea5e9,85:a855f7,100:581c87&height=250&section=header&text=AI%20Resume%20Analyser&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Get%20Hired%20%7C%20Much%20%7C%20Faster&descAlignY=58&descSize=16"/>
 <br/>
+
 <!-- Colorful Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -73,6 +74,6 @@ Anushree Saha| Tech Enthusiast 🎶
 
 
 
-</div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1DB954,100:191414&height=120&section=footer" /></div> ```
+</div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FFD700,50:FF8C00,75:1E90FF,100:8A2BE2&height=150&section=footer" /></div> ```
 
 
